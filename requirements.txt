@@ -1,0 +1,7 @@
+pip install numpy
+pip install Qiskit
+pip install qiskit_ibm_runtime
+pip install matplotlib
+pip install pylatexenc
+pip install seaborn
+pip install qiskit_aer
